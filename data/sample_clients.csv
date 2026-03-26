@@ -1,0 +1,251 @@
+Company Name,Sector,Revenue,Monthly Clients,Churn Rate (%),CAC,City,State,Contract Start,Plan Type
+SuperCorp,TECHNOLOGY,126981,227,17.7,763,Seattle,WA,2025-04-15,Enterprise
+PrimeWorks,healthcare,$ 58587,802,12.1,382,Phoenix,AZ,2024-01-24,Pro
+MaxCorp,Food & Beverage,$ 374398,1876,23.6,111,Dallas,TX,2023-02-13,Pro
+Trade Plus,Finance,363375,5000,19.8,576,San Diego,CA,2023-03-15,Pro
+Eco Service,Technology,215325,1738,27.6,610,Phoenix,AZ,2024-04-21,Pro
+GlobalHealth Lab,Finance,229622,3281,12.1,171,San Antonio,TX,2025-02-25,Basic
+GlobalHub,Logistics,206728,3844,,596,Miami,FL,2022-11-24,Basic
+Food Group,Healthcare,383584,2167,29.2,212,Denver,CO,2022-11-10,Enterprise
+Global Move,Technology,$ 261170,2983,26.6,344,Dallas,TX,2023-01-08,Enterprise
+AgroCorp,healthcare,293255,4332,26.4,463,Los Angeles,CA,2023-09-25,Enterprise
+Beta Build,Food & Beverage,276358,2040,8.3,376,Seattle,WA,2022-10-18,Basic
+Nova Express,TECHNOLOGY,455696,4221,8.7,715,Austin,TX,2025-04-18,Basic
+UltraBlue Works,Retail,190753,3835,26.2,85,Seattle,WA,2022-01-13,Enterprise
+UltraNet,CONSTRUCTION,151037,627,14.4,593,Philadelphia,PA,2022-01-21,Enterprise
+SmartTec,Construction,458325,490,6.6,32,Miami,FL,2025-05-26,Pro
+SuperBlue Lab,Education,308657,509,22.9,88,Phoenix,AZ,2022-10-16,Enterprise
+Tech Fast  ,Retail,359005,3317,5.4,613,Atlanta,GA,2023-10-20,Basic
+TopCore,Food & Beverage,112090,2583,8.7,435,Austin,TX,2023-11-21,Pro
+Express Solutions,RETAIL,270229,2869,26.7,280,San Diego,CA,2024-05-06,Pro
+  Open Cloud  ,Retail,75407,886,22.8,189,Miami,FL,2024-05-20,Basic
+Capital Soft,Finance,$ 448602,3479,25.2,75,Seattle,WA,2022-06-25,Basic
+Trade Way,Logistics,$ 63654,1231,17.3,408,Denver,CO,2023-07-05,Basic
+Service Plus,Education,190429,3339,29.3,797,Phoenix,AZ,2023-04-28,Basic
+Top Connect,Food & Beverage,220856,2042,9.5,748,Boston,MA,2022-07-28,Basic
+UltraCapital Way,EDUCATION,213910,578,29.1,315,Miami,FL,2024-11-17,Pro
+Connect Group,finance,$ 25057,3569,11.7,351,Denver,CO,2025-10-17,Basic
+Alpha Service,Technology,427843,1624,12.2,101,San Antonio,TX,2024-10-11,Enterprise
+BetaCloud,Logistics,370538,1052,7.4,710,Miami,FL,2025-11-24,Basic
+Build Box,Finance,230385,4979,,506,Austin,TX,2025-08-22,Basic
+PrimeExpress Data,FOOD & BEVERAGE,357738,1641,6.1,77,Dallas,TX,2023-08-20,Basic
+InfoCapital Pro,EDUCATION,473010,883,23.8,254,San Diego,CA,2023-12-17,Pro
+Digital Green,Construction,298037,3635,19.2,766,New York,NY,2025-09-15,Basic
+BioHealth Tec,Finance,278311,1969,9.7,109,Seattle,WA,2024-04-09,Pro
+GlobalLab,Healthcare,38674,2720,17.2,455,Philadelphia,PA,2022-04-27,Pro
+InfoPro,Food & Beverage,209465,3442,17.1,782,San Antonio,TX,2023-08-08,Pro
+NovaBuild Link,Logistics,445667,1055,29.5,,San Antonio,TX,2025-10-19,Enterprise
+TopLab,healthcare,176627,2687,11.5,418,New York,NY,2024-07-09,Basic
+SuperSystems,FOOD & BEVERAGE,414591,339,23.1,283,San Diego,CA,2023-01-20,Basic
+Agro Vision,Education,139345,1384,19.0,795,Houston,TX,2022-03-10,Basic
+BetaCore,Logistics,379873,4860,21.3,672,Austin,TX,2023-02-23,Pro
+InfoSystems,Logistics,41153,2805,2.4,460,Miami,FL,2025-02-14,Pro
+GlobalFinance Hub,Finance,487144,3970,15.0,778,Denver,CO,2024-06-28,Basic
+AlphaWay,Construction,355323,245,15.8,362,Miami,FL,2023-08-07,Pro
+Food Soft,Finance,275861,711,8.8,446,Boston,MA,2025-09-25,Basic
+AgroGreen Solutions  ,Logistics,165540,3033,15.3,573,Seattle,WA,2024-07-24,Enterprise
+Green Soft,EDUCATION,$ 170438,4399,28.6,736,Philadelphia,PA,2023-04-07,Enterprise
+Easy Cloud,Retail,160318,1479,10.5,755,San Diego,CA,2023-05-02,Basic
+Logic Point,Technology,251099,2801,7.2,82,Dallas,TX,2024-08-04,Basic
+SmartEasy Systems,FINANCE,67102,3419,19.0,663,San Antonio,TX,2023-09-13,Pro
+BetaEasy Works,Technology,$ 393019,1712,19.5,300,Atlanta,GA,2022-03-08,Basic
+PrimeSolutions,Construction,126360,2326,21.7,494,Dallas,TX,2022-11-08,Pro
+Top Vision,Healthcare,$ 438392,498,6.6,344,Boston,MA,2024-08-04,Pro
+Build Soft,Construction,$ 318543,3549,22.6,648,Seattle,WA,2024-01-03,Basic
+AlphaCore  ,Construction,236855,1496,29.9,476,Denver,CO,2025-02-16,Pro
+Food Group,Food & Beverage,264768,3290,24.8,593,San Antonio,TX,2022-08-03,Pro
+Vision Pro,Technology,289475,454,7.3,400,Phoenix,AZ,2025-11-15,Basic
+Safe Lab,Construction,$ 259128,4997,24.4,756,Houston,TX,2023-05-18,Basic
+SmartPower Group,Retail,85725,2400,16.2,,Dallas,TX,2025-08-08,Pro
+Max Capital,Healthcare,149833,3409,11.5,549,Dallas,TX,2024-01-10,Enterprise
+GlobalGreen Box,Food & Beverage,289913,2646,26.3,744,Phoenix,AZ,2023-10-13,Basic
+TechFood Point,Logistics,352964,1256,15.9,67,Miami,FL,2023-09-19,Pro
+BioGroup,CONSTRUCTION,219946,1274,4.1,301,Miami,FL,2024-10-23,Pro
+EcoBox,Food & Beverage,470273,4442,3.0,,Denver,CO,2024-04-24,Basic
+DigitalWay,Finance,29112,469,10.2,413,San Antonio,TX,2025-03-08,Enterprise
+ Prime Trade ,Education,$ 310742,3787,19.9,500,San Antonio,TX,2024-11-01,Pro
+  Safe Hub  ,Finance,227460,3752,25.7,233,Atlanta,GA,2025-08-04,Basic
+Easy Data,finance,$ 148906,411,27.5,793,San Antonio,TX,2025-05-25,Basic
+Power Net,Healthcare,478643,332,10.7,481,Austin,TX,2022-10-12,Enterprise
+BetaLink,healthcare,283319,2242,25.3,293,Chicago,IL,2025-05-24,Pro
+BioCorp,Education,384698,3265,29.1,600,Boston,MA,2024-02-26,Pro
+Safe Group,Finance,436183,3053,5.0,,New York,NY,2022-10-18,Pro
+Smart Green,Finance,$ 66171,314,10.5,534,Atlanta,GA,2022-02-08,Enterprise
+BioMove Box,Healthcare,$ 348367,4018,19.2,316,Chicago,IL,2022-12-12,Basic
+UltraMove Group,Food & Beverage,343074,3271,9.7,155,San Diego,CA,2025-02-22,Basic
+TechLink,Healthcare,$ 112586,4550,7.8,251,Denver,CO,2023-06-25,Basic
+AlphaLab,Finance,62633,221,5.7,396,Boston,MA,2023-10-11,Basic
+Service Lab,Retail,254690,2975,16.4,141,Chicago,IL,2025-09-08,Enterprise
+ Green Solutions ,Logistics,61603,3643,4.1,112,New York,NY,2024-10-05,Basic
+Open Core,Food & Beverage,318205,3726,16.2,470,Chicago,IL,2022-12-04,Enterprise
+Top Green,Logistics,242764,788,10.8,350,Denver,CO,2024-06-05,Enterprise
+  SmartExpress Corp,Food & Beverage,$ 296698,4610,17.7,716,Atlanta,GA,2022-07-12,Enterprise
+TechEdu Line,Retail,116536,3960,8.3,140,Boston,MA,2024-09-12,Basic
+Easy Tec,Technology,349893,2200,2.8,309,Boston,MA,2024-06-12,Basic
+  Info Build,Retail,117791,3726,11.5,408,Chicago,IL,2024-12-11,Enterprise
+TechLab,Technology,147660,3483,15.6,482,Austin,TX,2025-05-07,Enterprise
+Finance Group,Construction,$ 166700,3247,29.6,86,Los Angeles,CA,2022-04-10,Basic
+Alpha Edu,Technology,230787,3124,16.9,265,Boston,MA,2024-02-13,Enterprise
+NovaGreen Corp,Logistics,376981,2381,5.2,51,New York,NY,2024-03-26,Enterprise
+Express Works,Education,214951,3252,26.4,793,San Diego,CA,2024-04-11,Basic
+MultiCloud,Food & Beverage,434364,1219,8.6,179,Los Angeles,CA,2024-04-06,Enterprise
+PrimePoint,Construction,467447,2657,26.2,672,Chicago,IL,2024-03-15,Basic
+  BetaHealth Core,Finance,$ 24717,2361,4.1,122,San Diego,CA,2025-08-19,Enterprise
+BioCore,Food & Beverage,267860,516,14.6,381,Boston,MA,2022-09-21,Basic
+Bio Green,Healthcare,486263,3358,23.7,725,New York,NY,2022-11-21,Pro
+Vision Box,Finance,451465,4947,26.5,371,Los Angeles,CA,2022-10-22,Basic
+Edu Pro,Retail,202488,2700,24.8,716,Atlanta,GA,2022-11-22,Pro
+Connect Plus,Education,406686,1865,30.0,188,Dallas,TX,2022-05-28,Basic
+EcoLine,LOGISTICS,440864,1366,22.2,74,Dallas,TX,2025-06-22,Enterprise
+ApexEdu Way,Education,428951,1599,12.3,614,Houston,TX,2025-08-25,Pro
+MultiFast Works,Education,77560,437,20.0,410,Boston,MA,2022-12-28,Enterprise
+BetaCorp,Finance,$ 274144,3593,4.6,257,Miami,FL,2025-06-01,Pro
+MultiMove Tec,Retail,19778,821,25.5,695,New York,NY,2024-03-05,Basic
+GlobalBlue Way,RETAIL,$ 442761,4997,16.8,143,Phoenix,AZ,2024-04-10,Basic
+Top Open,Retail,267054,144,19.7,618,New York,NY,2023-12-05,Pro
+ApexPlus,LOGISTICS,279456,564,28.7,587,San Antonio,TX,2022-07-28,Pro
+NeoHealth Solutions,Retail,389272,859,23.6,782,New York,NY,2024-03-02,Pro
+Trade Way,Construction,$ 430458,3759,3.0,236,Dallas,TX,2022-04-02,Pro
+Fast Pro,Construction,399941,2353,12.0,78,Atlanta,GA,2024-05-04,Pro
+BioBuild Link,Construction,197595,4263,9.5,114,San Antonio,TX,2025-02-14,Enterprise
+Super Edu,Retail,160000,4946,22.1,200,Miami,FL,2025-06-15,Basic
+Open Works,technology,195479,1320,28.7,176,Seattle,WA,2025-01-05,Basic
+Move Pro,Technology,361024,3048,12.4,108,Houston,TX,2023-09-12,Pro
+Power Group  ,Construction,483959,2154,23.7,750,Philadelphia,PA,2025-04-20,Pro
+MegaVision Lab,construction,51027,2628,20.7,756,Seattle,WA,2022-09-18,Pro
+Trade Hub,EDUCATION,$ 420270,4057,2.7,597,Atlanta,GA,2024-08-26,Enterprise
+SmartData,Construction,408263,4719,4.1,354,Chicago,IL,2022-08-15,Enterprise
+Logic Box,Healthcare,72650,463,25.3,560,Dallas,TX,2023-05-06,Basic
+Neo Fast,Retail,337952,2258,5.5,340,Philadelphia,PA,2022-09-21,Basic
+Prime Open,Food & Beverage,$ 300498,242,4.3,686,Austin,TX,2024-11-07,Enterprise
+AgroBox,Finance,426888,3336,10.3,104,San Antonio,TX,2022-03-15,Pro
+MegaFood Line,Food & Beverage,456295,3276,5.7,409,San Diego,CA,2022-06-08,Pro
+Green Tec,Technology,206405,3435,9.0,193,Los Angeles,CA,2024-10-24,Pro
+Agro Fast,Finance,52211,4150,14.8,276,Houston,TX,2023-10-12,Basic
+Blue Line,Construction,9287,3540,5.8,300,New York,NY,2024-07-12,Basic
+InfoBox,finance,405767,983,5.6,129,San Antonio,TX,2025-06-26,Pro
+Logic Net,Logistics,$ 28752,2738,24.5,561,Dallas,TX,2025-03-20,Enterprise
+Open Link,Finance,270979,4370,15.7,606,Chicago,IL,2024-08-27,Basic
+Vision Works,Technology,144214,4748,18.2,768,Philadelphia,PA,2022-10-16,Basic
+GlobalPower Systems,retail,169465,3392,21.3,450,Dallas,TX,2025-12-24,Basic
+Multi Capital,Construction,169496,3775,27.5,380,Seattle,WA,2024-11-25,Enterprise
+Open Point,Education,161499,2448,23.6,751,Denver,CO,2023-12-23,Pro
+NeoSafe Soft,Logistics,211848,1209,10.1,324,Philadelphia,PA,2022-06-15,Enterprise
+MegaCapital Box,FINANCE,$ 132117,4360,8.3,268,Phoenix,AZ,2022-02-14,Pro
+DigitalLogic Solutions,Healthcare,495226,3906,15.4,234,Seattle,WA,2024-06-10,Enterprise
+InfoTec,Technology,96784,1450,28.1,67,New York,NY,2025-08-06,Enterprise
+Service Solutions,Retail,180658,4460,16.7,167,Miami,FL,2025-05-07,Basic
+Bio Health,Technology,419589,1592,6.9,684,Philadelphia,PA,2025-07-17,Pro
+DigitalTrade Lab,education,128480,2197,28.7,339,Los Angeles,CA,2022-05-21,Pro
+Tech Vision,Healthcare,268465,2557,21.3,684,Seattle,WA,2024-06-20,Basic
+Agro Logic,Food & Beverage,292957,4413,24.5,253,Houston,TX,2023-11-25,Enterprise
+MultiWay,FOOD & BEVERAGE,37379,4150,7.7,579,Miami,FL,2023-03-11,Enterprise
+MegaCore,Construction,$ 242729,3413,14.8,89,San Diego,CA,2025-11-26,Pro
+MaxSoft,Education,28744,532,17.2,91,Seattle,WA,2022-08-02,Pro
+Global Finance,Logistics,485832,3087,4.2,707,San Antonio,TX,2023-11-28,Pro
+Super Build,Education,$ 401455,2454,15.0,766,Los Angeles,CA,2025-09-13,Basic
+NeoLogic Soft,retail,327396,138,8.7,98,Houston,TX,2022-10-02,Pro
+UltraSystems,Education,400515,472,5.9,326,Austin,TX,2023-12-19,Pro
+Power Data,Education,$ 149259,4856,26.6,209,Austin,TX,2025-09-16,Basic
+MultiFood Works,Finance,400531,1984,25.8,337,Philadelphia,PA,2023-08-02,Enterprise
+SuperFast Lab,FINANCE,488512,3049,4.6,771,San Antonio,TX,2023-01-09,Pro
+SmartNet,Education,460854,2493,28.8,45,Denver,CO,2023-04-24,Basic
+UltraOpen Net,Education,411592,3829,16.9,397,Seattle,WA,2024-05-12,Enterprise
+BioVision Point,Food & Beverage,199356,384,17.8,256,Atlanta,GA,2023-01-09,Enterprise
+BetaLogic Net,Logistics,133833,2775,9.2,530,Atlanta,GA,2025-08-06,Enterprise
+Trade Lab,CONSTRUCTION,$ 279697,618,28.5,714,Boston,MA,2022-01-14,Basic
+ Smart Logic ,food & beverage,350654,64,16.9,451,Miami,FL,2022-01-17,Enterprise
+Connect Cloud,Logistics,481983,799,16.7,276,Phoenix,AZ,2023-10-17,Pro
+ Health Pro ,Construction,370552,670,20.3,695,Miami,FL,2022-02-13,Pro
+ TechConnect Hub ,Food & Beverage,454818,4336,27.7,265,San Antonio,TX,2023-12-19,Pro
+SmartSoft,technology,13209,4818,6.0,759,Phoenix,AZ,2025-02-10,Basic
+Info Build,Food & Beverage,$ 392839,652,16.0,384,Austin,TX,2022-02-14,Basic
+EcoLine,Logistics,$ 176115,2249,23.9,491,Miami,FL,2025-04-12,Enterprise
+  PrimeEasy Pro  ,Education,48011,3122,21.9,679,San Antonio,TX,2023-12-13,Pro
+SmartSolutions,Construction,$ 146435,725,,489,Philadelphia,PA,2025-02-01,Basic
+ApexLine,logistics,208318,4593,27.3,278,Philadelphia,PA,2023-11-13,Basic
+Edu Soft,retail,225778,640,12.1,282,Chicago,IL,2025-10-20,Basic
+ GlobalData ,Food & Beverage,204171,2709,14.3,470,San Diego,CA,2023-05-11,Enterprise
+Agro Food,Logistics,157802,4032,29.1,278,Seattle,WA,2024-07-09,Pro
+InfoNet,Healthcare,$ 293410,3791,28.4,244,Philadelphia,PA,2025-05-27,Enterprise
+AgroLogic Data,Healthcare,418703,3688,29.7,520,Los Angeles,CA,2025-09-17,Enterprise
+NeoBox,RETAIL,349772,1372,20.1,75,San Antonio,TX,2025-06-26,Pro
+DigitalSoft,Education,210066,4831,21.3,184,Los Angeles,CA,2024-01-16,Basic
+SmartVision Lab,Food & Beverage,113458,2863,15.3,478,Phoenix,AZ,2025-06-03,Pro
+NovaLink,Healthcare,393229,1439,17.5,368,New York,NY,2025-08-08,Pro
+Prime Finance,Education,230209,1769,7.8,800,Denver,CO,2022-10-04,Enterprise
+Food Net,Finance,261630,2577,18.7,655,Chicago,IL,2025-10-04,Pro
+ApexTrade Data,Retail,$ 169199,2511,5.3,412,Philadelphia,PA,2023-09-13,Pro
+Info Build,Construction,368558,1429,17.5,531,Austin,TX,2024-03-06,Pro
+ApexService Plus,construction,299430,4064,13.5,533,Miami,FL,2025-12-27,Pro
+Smart Easy  ,FINANCE,286861,3756,17.8,537,San Diego,CA,2022-10-04,Pro
+Safe Systems,Construction,$ 227903,2037,10.3,63,Boston,MA,2025-05-12,Basic
+UltraNet,Food & Beverage,324952,1369,19.3,241,San Diego,CA,2023-01-19,Pro
+Open Box,Finance,145164,4224,29.6,725,Dallas,TX,2022-03-25,Pro
+AlphaLab,healthcare,439363,3227,15.7,621,Atlanta,GA,2024-11-14,Pro
+SmartPro,Finance,464966,4008,11.2,32,San Diego,CA,2022-12-15,Enterprise
+Express Box,Logistics,264373,2333,11.5,621,Denver,CO,2023-10-28,Pro
+ Service Systems ,TECHNOLOGY,236360,3514,7.7,735,Boston,MA,2023-11-10,Basic
+Express Plus,Food & Beverage,345216,3256,19.5,773,Miami,FL,2023-07-21,Basic
+NovaNet,Healthcare,277338,86,2.2,381,Seattle,WA,2022-07-23,Basic
+  UltraPro,Retail,466891,3145,,166,San Diego,CA,2023-02-17,Enterprise
+Bio Move,Healthcare,328001,1789,4.4,132,New York,NY,2023-02-19,Enterprise
+Finance Link,Education,49170,4933,18.8,652,San Antonio,TX,2024-12-01,Enterprise
+Capital Cloud,Education,159949,1970,15.9,145,Atlanta,GA,2023-08-21,Enterprise
+NeoLink,Logistics,363058,3868,28.7,104,Los Angeles,CA,2022-10-03,Basic
+Tech Service,Logistics,334552,3413,13.9,441,Phoenix,AZ,2022-11-18,Enterprise
+Alpha Express,Education,86462,3210,18.4,695,Austin,TX,2022-05-23,Pro
+ Tech Power ,Retail,$ 324203,1448,5.3,754,Seattle,WA,2023-12-01,Basic
+Fast Cloud,FINANCE,398098,2211,22.5,150,San Diego,CA,2022-06-26,Pro
+AlphaCore,Construction,$ 193808,4653,6.7,191,Phoenix,AZ,2024-02-19,Enterprise
+  UltraCloud,education,205791,1476,28.1,66,Seattle,WA,2025-04-11,Basic
+Health Corp,Retail,$ 477876,1838,24.5,77,San Antonio,TX,2025-02-15,Pro
+Food Corp,Technology,157879,2499,22.7,278,Boston,MA,2025-06-19,Pro
+Super Power,logistics,338416,88,28.6,31,Boston,MA,2025-12-24,Pro
+Multi Power,Technology,79644,772,3.2,267,Los Angeles,CA,2025-12-12,Pro
+InfoGroup,LOGISTICS,233056,1080,8.6,297,Seattle,WA,2024-07-23,Enterprise
+Green Soft,EDUCATION,$ 86479,3692,15.0,446,Philadelphia,PA,2022-09-12,Basic
+Green Soft,retail,438264,4952,3.1,365,San Diego,CA,2023-02-23,Basic
+MultiService Data,healthcare,453057,4516,9.0,503,Philadelphia,PA,2022-03-04,Basic
+Global Capital,Food & Beverage,496559,4780,18.4,106,New York,NY,2022-02-07,Enterprise
+Smart Food,construction,435799,4074,2.8,729,San Diego,CA,2025-03-12,Basic
+Alpha Health,HEALTHCARE,344360,3385,26.7,520,Atlanta,GA,2022-02-09,Pro
+MegaFast Tec,Technology,414949,3939,17.2,526,Chicago,IL,2024-10-17,Pro
+Trade Solutions,education,35718,3874,16.8,628,San Antonio,TX,2023-03-04,Basic
+Alpha Safe,Technology,120034,3191,11.9,207,Denver,CO,2023-04-19,Pro
+Easy Solutions,Food & Beverage,$ 300492,1552,25.4,534,Boston,MA,2024-03-16,Basic
+UltraLine,CONSTRUCTION,$ 427809,1463,27.7,361,Los Angeles,CA,2022-01-05,Enterprise
+Digital Fast,Retail,498839,4810,4.8,339,Seattle,WA,2024-03-06,Enterprise
+EcoTrade Box,FOOD & BEVERAGE,203382,2422,5.6,776,San Antonio,TX,2022-12-19,Pro
+PrimeLine,Education,59583,1162,11.3,109,Miami,FL,2023-06-11,Basic
+EcoWay  ,Education,188753,895,22.2,79,Denver,CO,2025-08-24,Pro
+AgroBuild Plus,Retail,418521,1857,6.6,105,Chicago,IL,2022-05-01,Pro
+SmartLink,LOGISTICS,291809,772,11.5,658,Phoenix,AZ,2025-12-01,Pro
+Apex Finance,Retail,104606,4549,22.2,777,Denver,CO,2024-11-10,Pro
+TechPro,construction,7000,2422,25.1,670,Houston,TX,2025-04-04,Basic
+Beta Express,Retail,213387,2180,4.6,587,Houston,TX,2025-03-12,Pro
+Bio Service,Construction,443870,514,6.2,743,Philadelphia,PA,2022-02-22,Pro
+ InfoPower Box ,Logistics,365221,3899,18.0,271,Boston,MA,2025-05-03,Pro
+MultiCore,healthcare,95638,1379,29.2,227,Atlanta,GA,2023-01-14,Basic
+MegaLogic Line,retail,294435,2272,16.6,42,Denver,CO,2025-02-14,Basic
+DigitalCore,Finance,466444,3376,9.4,700,Chicago,IL,2025-10-20,Pro
+Alpha Build,logistics,367028,3902,27.8,411,New York,NY,2022-06-27,Pro
+Blue Group,education,410815,2217,22.4,649,Phoenix,AZ,2022-04-15,Basic
+AgroFast Plus,healthcare,76119,4304,26.6,59,Atlanta,GA,2023-04-27,Basic
+UltraSystems,Food & Beverage,148643,3812,16.1,680,Miami,FL,2022-11-01,Basic
+ApexGreen Hub,Construction,188374,2128,23.0,735,Philadelphia,PA,2022-05-01,Pro
+Info Capital,Education,146077,4214,2.6,728,New York,NY,2022-08-05,Enterprise
+UltraSoft,Finance,376913,3481,27.1,387,Chicago,IL,2025-05-07,Pro
+InfoVision Solutions,Food & Beverage,316307,2455,21.2,523,Phoenix,AZ,2022-06-09,Enterprise
+Health Data,Education,427277,4925,13.3,357,Philadelphia,PA,2023-12-01,Enterprise
+Health Works,Technology,304914,2821,22.3,257,San Diego,CA,2025-11-12,Enterprise
+Super Trade,construction,385206,1509,28.5,373,Phoenix,AZ,2022-04-12,Basic
+Finance Link,Finance,66751,4790,18.2,665,Seattle,WA,2022-08-07,Enterprise
+MultiEdu Works  ,Healthcare,184657,4674,27.0,498,Los Angeles,CA,2023-06-28,Enterprise
+AgroLink,Healthcare,$ 35415,2250,7.9,202,Chicago,IL,2023-08-26,Basic
+TopBuild Works,LOGISTICS,388075,125,27.0,573,Chicago,IL,2023-01-22,Basic
+Ultra Move,Retail,313632,544,25.1,335,Denver,CO,2024-08-24,Enterprise
+Finance Lab,Construction,103789,3314,2.5,259,Austin,TX,2023-04-24,Basic
+Digital Move,Technology,340712,4390,19.4,638,Austin,TX,2022-11-04,Enterprise
+TechGroup,logistics,253720,1693,21.5,675,Miami,FL,2022-05-14,Enterprise
+Open Line,Logistics,60005,974,9.9,138,Los Angeles,CA,2025-04-20,Basic

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+.coverage
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+.venv/
+venv/
+.env
+
+# Node
+node_modules/
+.next/
+out/
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LocalStack
+.localstack/
+volume/

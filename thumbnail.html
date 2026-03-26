@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1280, height=720">
+<title>GrowthPulse Thumbnail</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    width: 1280px;
+    height: 720px;
+    font-family: 'Inter', sans-serif;
+    background: #030712;
+    overflow: hidden;
+    position: relative;
+  }
+
+  /* Background grid */
+  .grid-bg {
+    position: absolute;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+    background-size: 60px 60px;
+  }
+
+  /* Glow orbs */
+  .orb {
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(80px);
+    opacity: 0.4;
+  }
+  .orb-1 {
+    width: 400px; height: 400px;
+    background: #10b981;
+    top: -100px; left: -80px;
+    opacity: 0.25;
+  }
+  .orb-2 {
+    width: 350px; height: 350px;
+    background: #8b5cf6;
+    bottom: -80px; right: -60px;
+    opacity: 0.25;
+  }
+  .orb-3 {
+    width: 200px; height: 200px;
+    background: #06b6d4;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0.15;
+  }
+
+  .container {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 60px;
+  }
+
+  /* Title */
+  .title {
+    font-size: 72px;
+    font-weight: 900;
+    letter-spacing: -2px;
+    line-height: 1.1;
+    text-align: center;
+    background: linear-gradient(135deg, #10b981 0%, #34d399 25%, #a78bfa 60%, #c084fc 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 12px;
+  }
+
+  .subtitle {
+    font-size: 22px;
+    font-weight: 400;
+    color: #9ca3af;
+    text-align: center;
+    margin-bottom: 48px;
+    letter-spacing: 0.5px;
+  }
+
+  /* Pipeline */
+  .pipeline {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    margin-bottom: 48px;
+  }
+
+  .step {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .step-circle {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    border: 3px solid;
+  }
+
+  .step-1 .step-circle {
+    background: rgba(16, 185, 129, 0.15);
+    border-color: #10b981;
+    color: #10b981;
+  }
+  .step-2 .step-circle {
+    background: rgba(59, 130, 246, 0.15);
+    border-color: #3b82f6;
+    color: #3b82f6;
+  }
+  .step-3 .step-circle {
+    background: rgba(168, 85, 247, 0.15);
+    border-color: #a855f7;
+    color: #a855f7;
+  }
+
+  .step-label {
+    font-size: 16px;
+    font-weight: 700;
+    color: #e5e7eb;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  .step-sub {
+    font-size: 12px;
+    font-weight: 400;
+    color: #6b7280;
+  }
+
+  .connector {
+    width: 80px;
+    height: 3px;
+    background: linear-gradient(90deg, #10b981, #3b82f6);
+    margin: 0 8px;
+    margin-bottom: 40px;
+    border-radius: 2px;
+    position: relative;
+  }
+  .connector::after {
+    content: '';
+    position: absolute;
+    right: -6px;
+    top: -4px;
+    width: 0; height: 0;
+    border-left: 8px solid #3b82f6;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+  }
+  .connector-2 {
+    background: linear-gradient(90deg, #3b82f6, #a855f7);
+  }
+  .connector-2::after {
+    border-left-color: #a855f7;
+  }
+
+  /* Tech badges */
+  .badges {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .badge {
+    padding: 8px 18px;
+    border-radius: 999px;
+    font-size: 14px;
+    font-weight: 600;
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .badge-sqs {
+    background: rgba(249, 115, 22, 0.1);
+    border-color: rgba(249, 115, 22, 0.4);
+    color: #fb923c;
+  }
+  .badge-fastapi {
+    background: rgba(16, 185, 129, 0.1);
+    border-color: rgba(16, 185, 129, 0.4);
+    color: #34d399;
+  }
+  .badge-next {
+    background: rgba(255, 255, 255, 0.05);
+    border-color: rgba(255, 255, 255, 0.2);
+    color: #e5e7eb;
+  }
+  .badge-gpt {
+    background: rgba(168, 85, 247, 0.1);
+    border-color: rgba(168, 85, 247, 0.4);
+    color: #c084fc;
+  }
+  .badge-docker {
+    background: rgba(59, 130, 246, 0.1);
+    border-color: rgba(59, 130, 246, 0.4);
+    color: #60a5fa;
+  }
+  .badge-test {
+    background: rgba(234, 179, 8, 0.1);
+    border-color: rgba(234, 179, 8, 0.4);
+    color: #facc15;
+  }
+
+  .badge-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .badge-sqs .badge-dot { background: #fb923c; }
+  .badge-fastapi .badge-dot { background: #34d399; }
+  .badge-next .badge-dot { background: #e5e7eb; }
+  .badge-gpt .badge-dot { background: #c084fc; }
+  .badge-docker .badge-dot { background: #60a5fa; }
+  .badge-test .badge-dot { background: #facc15; }
+</style>
+</head>
+<body>
+  <div class="grid-bg"></div>
+  <div class="orb orb-1"></div>
+  <div class="orb orb-2"></div>
+  <div class="orb orb-3"></div>
+
+  <div class="container">
+    <div class="title">GrowthPulse</div>
+    <div class="subtitle">Async Task Processing with AWS SQS & AI-Powered Analysis</div>
+
+    <div class="pipeline">
+      <div class="step step-1">
+        <div class="step-circle">&#x1f4c4;</div>
+        <div class="step-label">Upload</div>
+        <div class="step-sub">CSV Data</div>
+      </div>
+
+      <div class="connector"></div>
+
+      <div class="step step-1">
+        <div class="step-circle">&#x2699;</div>
+        <div class="step-label">Normalize</div>
+        <div class="step-sub">SQS Queue 1</div>
+      </div>
+
+      <div class="connector"></div>
+
+      <div class="step step-2">
+        <div class="step-circle">&#x1f4ca;</div>
+        <div class="step-label">Collect</div>
+        <div class="step-sub">SQS Queue 2</div>
+      </div>
+
+      <div class="connector connector-2"></div>
+
+      <div class="step step-3">
+        <div class="step-circle">&#x2728;</div>
+        <div class="step-label">Analyze</div>
+        <div class="step-sub">GPT + SQS Queue 3</div>
+      </div>
+    </div>
+
+    <div class="badges">
+      <div class="badge badge-sqs"><span class="badge-dot"></span>AWS SQS</div>
+      <div class="badge badge-fastapi"><span class="badge-dot"></span>FastAPI</div>
+      <div class="badge badge-next"><span class="badge-dot"></span>Next.js 14</div>
+      <div class="badge badge-gpt"><span class="badge-dot"></span>OpenAI GPT</div>
+      <div class="badge badge-docker"><span class="badge-dot"></span>Docker</div>
+      <div class="badge badge-test"><span class="badge-dot"></span>100% Coverage</div>
+    </div>
+  </div>
+</body>
+</html>

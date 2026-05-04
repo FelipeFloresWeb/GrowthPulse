@@ -1,3 +1,5 @@
+Video Demo: https://www.linkedin.com/posts/felipe-flores-dev_aws-sqs-fastapi-ugcPost-7442960151546052608-Vrgh?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMSm_0BpHP_X_heHtC3-8r_nuklvrFrJiI
+
 # GrowthPulse — Marketing Intelligence Platform
 
 ![GrowthPulse Thumbnail](thumbnail.png)
